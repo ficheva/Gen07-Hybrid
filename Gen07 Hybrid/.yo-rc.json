@@ -1,0 +1,1 @@
+{"dependsOn":["generator-kendo-ui-mobile@0.0.7"],"generator-kendo-ui-mobile":{"cleanup":["./data/gen007Backend.js","./home","./authenticationView","./dataListView","./aboutView","./formView1","./aboutView1"]}}
